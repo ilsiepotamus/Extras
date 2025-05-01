@@ -60,7 +60,6 @@
         "}"
     ],
     "persist": [
-        "BC5Key.txt",
         "BCPreferences.xml",
         "BCState.xml",
         "BCColors.xml"
